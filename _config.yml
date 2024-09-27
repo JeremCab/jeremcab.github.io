@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Jérémie Cabessa's homepage"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Jérémie Cabessa"
 description              : &description "Professor in Computer Science"
@@ -34,7 +34,7 @@ author:
   # arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=UCqmfJoAAAAJ&hl=fr"
 #   impactstory      : # URL
-  dblp             : "https://dblp.org/pid/86/3776.html" 
+  dblp_url         : "https://dblp.org/pid/86/3776.html" 
   orcid            : "https://orcid.org/0000-0002-5394-5249"
   semantic         : # URL
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
