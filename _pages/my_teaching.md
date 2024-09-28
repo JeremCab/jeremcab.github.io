@@ -1,6 +1,6 @@
 ---
 permalink: /my_teaching/
-title: "Teaching"
+title: "PubliTeachingcations"
 author_profile: true
 redirect_from: 
   - "/nmp/"
