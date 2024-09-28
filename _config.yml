@@ -13,8 +13,8 @@ title_separator          : "-"
 name                     : &name "Jérémie Cabessa"
 description              : &description "Professor in Computer Science"
 url                      : https://jeremie-cabessa.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/jeremie-cabessa.github.io" # the subpath of your site, e.g. "/blog"
-repository               : ""
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+repository               : "JeremCab/jeremie-cabessa.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
