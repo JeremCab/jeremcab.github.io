@@ -1,0 +1,16 @@
+Adding content:
+
+1. Add the file (paper, presentation, etc.) to:
+
+files/papers/         or
+Files/presentations/
+
+2. Update the page in:
+
+_pages/my_papers.md         or
+_pages/my_presentations.md
+
+3. Go to my repo:
+
+JeremCab/jeremcab.github.io -> "Actions" tab -> 
+

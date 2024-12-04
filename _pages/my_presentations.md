@@ -7,6 +7,7 @@ redirect_from:
   - "/nmp.html"
 ---
 
+* 06 December 2024, Conference Clic-it 2024, Pisa (IT): [[download]](/files/presentations/JCabessa_06-12-24.pdf.zip)
 
 * 26 April 2022, Seminar, Université Paris Saclay, Paris (FR): [[download]](/files/presentations/JCabessa_26-04-22.pdf.zip)
 * 16 May 2022, Seminar Université Versailles, Versailles (FR): [[download]](/files/presentations/JCabessa_16-05-22.pdf.zip)
