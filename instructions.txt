@@ -1,4 +1,4 @@
-Adding content:
+Adding content on my website:
 
 1. Add the file (paper, presentation, etc.) to:
 
@@ -10,7 +10,16 @@ Files/presentations/
 _pages/my_papers.md         or
 _pages/my_presentations.md
 
-3. Go to my repo:
+3. Using command line, go to my repo:
 
-JeremCab/jeremcab.github.io -> "Actions" tab -> 
+jeremcab.github.io
+
+add the content, commit and push.
+
+git add .
+git commit -m <message>
+git push
+
+The webpage is then be updated and deployed automatically.
+ 
 
