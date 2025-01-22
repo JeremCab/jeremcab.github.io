@@ -7,7 +7,7 @@ Files/presentations/
 
 2. Update the page in:
 
-_pages/my_papers.md         or
+_pages/my_publications.md         or
 _pages/my_presentations.md
 
 3. Using command line, go to my repo:
@@ -22,4 +22,3 @@ git push
 
 The webpage is then be updated and deployed automatically.
  
-
