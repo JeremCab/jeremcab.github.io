@@ -64,6 +64,8 @@ Journals
 Conferences 
 -----------  
 
+* Jérémie Cabessa, Hugo Hernault, Umer Mushtaq. [Argument Mining with Fine-Tuned Large Language Models.](/files/papers/CabessaEtAlColing25.pdf) In *COLING 2025: Proceedings of the International Conference on Computational Linguistics*, pp. 6624-6635, ACL, 2025.
+
 * Jérémie Cabessa, Hugo Hernault, Umer Mushtaq.[Argument Mining in BioMedicine: Zero-Shot, In-Context Learning and Fine-tuning with LLMs.](/files/papers/CabessaEtAlClicIt24.pdf) In *CLiC-it 2024: Proceedings of the Italian Conference on Computational Linguistics*, CEUR-WS, 2024.
 
 * Jiri Sima and Jérémie Cabessa. [Energy Complexity of Fully-Connected Layers.](/files/papers/SimaCabessaIWANN23.pdf) In *IWANN 2023: Proceedings of the International Work-Conference on Artificial Neural Networks (1)*, pp. 3-15, Springer, 2023.
