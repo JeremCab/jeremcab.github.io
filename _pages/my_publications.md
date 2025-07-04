@@ -62,7 +62,7 @@ Journals
 
 
 Conferences 
------------  
+-----------
 
 * Jérémie Cabessa, Hugo Hernault, Umer Mushtaq. [Argument Mining with Fine-Tuned Large Language Models.](/files/papers/CabessaEtAlColing25.pdf) In *COLING 2025: Proceedings of the International Conference on Computational Linguistics*, pp. 6624-6635, ACL, 2025.
 
