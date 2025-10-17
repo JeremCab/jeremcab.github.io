@@ -26,6 +26,8 @@ HDR and PhD
 Journals
 --------
 
+* Jérémie Cabessa, Yann Strozecki: [Refined Kolmogorov complexity of analog, evolving and stochastic recurrent neural networks.](/files/papers/CabessaStrozeckiIS25.pdf) *Information Sciences* 711: 122104 (2025)
+
 * Jiří Šíma, Jérémie Cabessa, Petra Vidnerová: [On energy complexity of fully-connected layers.](/files/papers/SimaEtAlNN24.pdf) *Neural Networks* 178: 106419 (2024)
 
 * Christian W. Bach, Jérémie Cabessa. [Lexicographic agreeing to disagree and perfect equilibrium.](/files/papers/BachCabessaJME23.pdf) *Journal of Mathematical Economics*, 109:102908, 2023.
@@ -63,6 +65,8 @@ Journals
 
 Conferences 
 -----------
+
+* Jirí Síma and Jérémie Cabessa. [The Power of Max Pooling Layer.](/files/papers/SimaCabessaICANN25.pdf) In *ICANN 2025: Proceedings of the 27th International Conference on Artificial Neural Networks*, pp. 221-233, Springer, 2025.
 
 * Jérémie Cabessa, Hugo Hernault, Umer Mushtaq. [Argument Mining with Fine-Tuned Large Language Models.](/files/papers/CabessaEtAlColing25.pdf) In *COLING 2025: Proceedings of the International Conference on Computational Linguistics*, pp. 6624-6635, ACL, 2025.
 
