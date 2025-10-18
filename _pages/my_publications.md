@@ -66,7 +66,9 @@ Journals
 Conferences 
 -----------
 
-* Jirí Síma and Jérémie Cabessa. [The Power of Max Pooling Layer.](/files/papers/SimaCabessaICANN25.pdf) In *ICANN 2025: Proceedings of the 27th International Conference on Artificial Neural Networks*, pp. 221-233, Springer, 2025.
+* Jirí Síma and Jérémie Cabessa. [The Power of Max Pooling Layer.](/files/papers/SimaCabessaICANN25.pdf) In *ICANN 2025: Proceedings of the 34th International Conference on Artificial Neural Networks - Part I*, pp. 221-233, Springer, 2025.
+
+* Jérémie Cabessa and Alessandro E.P. Villa. [Shaping Attractor Landscapes in Boolean Liquid State Machines via STDP and Global Plasticity.](/files/papers/CabessaVillaICANN25.pdf) In *ICANN 2025: Proceedings of the 34th International Conference on Artificial Neural Networks - Part V*, pp. 213-223, Springer, 2025.
 
 * Jérémie Cabessa, Hugo Hernault, Umer Mushtaq. [Argument Mining with Fine-Tuned Large Language Models.](/files/papers/CabessaEtAlColing25.pdf) In *COLING 2025: Proceedings of the International Conference on Computational Linguistics*, pp. 6624-6635, ACL, 2025.
 
