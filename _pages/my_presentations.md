@@ -7,6 +7,7 @@ redirect_from:
   - "/nmp.html"
 ---
 
+* 12 September 2025, Conference ICANN 2025, Kaunas (LT): [[download]](/files/presentations/JCabessa_12-09-25.pdf.zip)
 * 04 July 2025, Conference IJCNN 2025, Roma (IT): [[download]](/files/presentations/JCabessa_04-07-25_2.pdf.zip)
 * 04 July 2025, Conference IJCNN 2025, Roma (IT): [[download]](/files/presentations/JCabessa_04-07-25_1.pdf.zip)
 

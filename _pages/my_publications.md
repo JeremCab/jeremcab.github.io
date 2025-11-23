@@ -66,6 +66,10 @@ Journals
 Conferences 
 -----------
 
+* Nourane Fradi, Jérémie Cabessa and Anis Zeglaoui. [Few-Shot High-Dimensional Feature Selection with Lagrange Programming Neural Networks.](/files/papers/FradiEtAlIJCNN25.pdf) In *IJCNN 2025: Proceedings of the International Joint Conference on Artificial Neural Networks*, pp. 1-8, IEEE, 2025.
+
+* Jérémie Cabessa and Alessadro E.P.Villa. [Attractor Regimes of Boolean Recurrent Neural Networks subject to STDP and Global Plasticity.](/files/papers/CabessaVillaIJCNN25.pdf) In *IJCNN 2025: Proceedings of the International Joint Conference on Artificial Neural Networks*, pp. 1-8, IEEE, 2025.
+
 * Jirí Síma and Jérémie Cabessa. [The Power of Max Pooling Layer.](/files/papers/SimaCabessaICANN25.pdf) In *ICANN 2025: Proceedings of the 34th International Conference on Artificial Neural Networks - Part I*, pp. 221-233, Springer, 2025.
 
 * Jérémie Cabessa and Alessandro E.P. Villa. [Shaping Attractor Landscapes in Boolean Liquid State Machines via STDP and Global Plasticity.](/files/papers/CabessaVillaICANN25.pdf) In *ICANN 2025: Proceedings of the 34th International Conference on Artificial Neural Networks - Part V*, pp. 213-223, Springer, 2025.
