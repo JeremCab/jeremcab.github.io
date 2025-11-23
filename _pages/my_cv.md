@@ -62,8 +62,8 @@ Scientific Responsibilities
   * CSL 07, GAMES 07, ICANN and IJCNN.
 
 
-Teaching Experience (also [here](my_teaching/index.html))
------------------------------------
+Teaching Experience (also [here](/my_teaching/))
+------------------------------------------------
 
 * Neural Networks (UVSQ)
 * Machine Learning (UVSQ, UP2)
