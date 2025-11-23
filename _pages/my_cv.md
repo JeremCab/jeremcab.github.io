@@ -45,23 +45,24 @@ Scientific Responsibilities
 ---------------------------
 
 * **University**
-  * Director of Master 2 AMIS, UVSQ.
-  * Member of the Research Commission of the academic board of the University Paris 2.
+  * Director of Doctoral School ED STIC - Pole C, University Paris-Saclay (2024 - Pres.)
+  * Director of Master 2 AMIS, UVSQ (2022 - 2024)
+  * Member of the Research Commission of the University Paris 2 (2017 - 2019)
 
 * **Scientific societies**
   * Executive member of the Europeean Neural Network Society (ENNS)
 
 * **Editorial activity**
-  * Associate Editor for the journal *Neural Networks*
+  * Associate Editor for the journal *Neural Networks* (2019 - 2025)
 
 * **Reviewing**
   * Reviewer for various international journals and conferences
 
 * **Conference organizing/programme committee**
-  * CSL 07, GAMES 07, ICANN 2012, 2016--2021.
+  * CSL 07, GAMES 07, ICANN and IJCNN.
 
 
-Teaching Experience (also [here]())
+Teaching Experience (also [here](my_teaching/index.html))
 -----------------------------------
 
 * Neural Networks (UVSQ)
