@@ -21,7 +21,7 @@ baseurl                  : "" # the subpath of your site, e.g. "/blog"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "aleph_0.jpg"
+  avatar           : "aleph_0.png"
   name             : "Jérémie Cabessa"
   # pronouns         : # example: "she/her"  
   bio              : "Professor in Computer Science"
